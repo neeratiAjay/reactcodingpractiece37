@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.chart-bg-container {
+  background-color: #1c1c2b;
+  width: 90%;
+  margin-left: 40px;
+}
+.coverage-heading {
+  color: #94a3b8;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 24px;
+  padding-left: 30px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}

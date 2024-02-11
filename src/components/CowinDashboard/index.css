@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.app-bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  margin-left: 30px;
+}
+.website-logo {
+  height: 50px;
+  width: 50px;
+}
+.web-heading {
+  color: #2cc6c6;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 28px;
+  padding-left: 10px;
+}
+.vaccination-heading {
+  color: #cbd5e1;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 28px;
+  padding-left: 40px;
+}
+.failure-container {
+  display: flex;
+  justify-content: center;
+}
+.failure-image {
+  height: 400px;
+  width: 400px;
+  background-size: cover;
+}
+.failure-heading {
+  color: #cbd5e1;
+  font-family: 'bee serif';
+  font-weight: 500;
+  font-size: 28px;
+  padding-left: 32px;
+}
+.loader-view {
+  display: flex;
+  justify-content: center;
+}
